@@ -1,3 +1,7 @@
+*.pt
+*.pth
+*.safetensors
+*.venv/
 __pycache__/
 *.py[cod]
 !phases/13-tools-and-protocols/43-bytecode-and-managed-formats/code/fixtures/python/*.pyc
